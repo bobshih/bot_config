@@ -1,0 +1,44 @@
+channel:
+  channel_list:
+  - end_msg: ''
+    id: UCPZgBtMYoFKypEG2SCvBN9A
+    last_stream_id: ''
+    name: 芦澤サキ / SAKI ASHIZAWA
+    start_msg: ''
+    target: 251345669028052993
+    target_type: id
+    text_channel: 952087363079766086
+    thread_id: ''
+    wait_msg: ''
+  - end_msg: ''
+    id: UCf-PcSHzYAtfcoiBr5C9DZA
+    last_stream_id: ''
+    name: 長瀬有花 / YUKA NAGASE
+    start_msg: ''
+    target: 251345669028052993
+    target_type: id
+    text_channel: 952087363079766086
+    thread_id: ''
+    wait_msg: ''
+  - end_msg: ''
+    id: UC5Xse6X7vB_nUL5HvEFVo_g
+    last_stream_id: ''
+    name: 道明寺ここあ
+    start_msg: ''
+    target: 251345669028052993
+    target_type: id
+    text_channel: 952087363079766086
+    thread_id: ''
+    wait_msg: ''
+  end_stream_msg: '{notified_target}\n直播已於 {rel_end_time} ({act_end_time})結束，時長 {elapsed_time}\n{link}'
+  notify_text_channel: 952087363079766086
+  start_stream_msg: '{notified_target}\n{name} 的直播開始拉！\n{title}\n{link}'
+  waiting_msg: '{notified_target}\n下一場直播將於 {rel_start_time} 內 ({act_start_time}) 開始\n{title}\n{link}'
+info:
+  id: 374601396516814849
+  name: 小空間
+setting:
+  leave_channel: -1
+  leave_text: 'default leave message: {user}'
+  welcome_channel: -1
+  welcome_text: 'default welcome message: {user}'
