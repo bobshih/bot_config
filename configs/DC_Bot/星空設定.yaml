@@ -41,6 +41,16 @@ channel:
     text_channel: 951865900158558258
     thread_id: ''
     wait_msg: ''
+  - end_msg: ''
+    id: UC-hM6YJuNYVAmUWxeIr9FeA
+    last_stream_id: ''
+    name: みこちゃん
+    start_msg: ''
+    target: 955772362937217044
+    target_type: tag
+    text_channel: 955771570914213899
+    thread_id: ''
+    wait_msg: ''
   end_stream_msg: '{notified_target}\n直播已於 {rel_end_time} ({act_end_time})結束，時長 {elapsed_time}\n{link}'
   notify_text_channel: 944871681846038528
   start_stream_msg: '{notified_target}\n{name} 的直播開始拉！\n{title}\n{link}'
