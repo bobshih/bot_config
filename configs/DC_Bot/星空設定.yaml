@@ -12,7 +12,7 @@ channel:
     wait_msg: ''
   - end_msg: ''
     id: UC1DCedRgGHBdm81E1llLhOQ
-    last_stream_id: 1y6NAGYlf4g
+    last_stream_id: ''
     name: ぺこら
     start_msg: '{notified_target}\n{name} 的直播開始拉！\n{title}\n{link}'
     target: 951865238578430003
@@ -23,7 +23,7 @@ channel:
       開始\n{title}\n{link}'
   - end_msg: ''
     id: UCL34fAoFim9oHLbVzMKFavQ
-    last_stream_id: g0Bvj9nu1MY
+    last_stream_id: ''
     name: 夜見
     start_msg: ''
     target: 951866513260953650
@@ -33,7 +33,7 @@ channel:
     wait_msg: ''
   - end_msg: ''
     id: UCeLzT-7b2PBcunJplmWtoDg
-    last_stream_id: lUcnYkn9W_M
+    last_stream_id: ''
     name: PTR
     start_msg: ''
     target: 951865247248048148
