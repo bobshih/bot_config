@@ -21,16 +21,6 @@ channel:
     thread_id: ''
     wait_msg: ''
   - end_msg: ''
-    id: UCPZgBtMYoFKypEG2SCvBN9A
-    last_stream_id: ''
-    name: 芦澤サキ / SAKI ASHIZAWA
-    start_msg: ''
-    target: 251345669028052993
-    target_type: id
-    text_channel: 952087363079766086
-    thread_id: ''
-    wait_msg: ''
-  - end_msg: ''
     id: UCf-PcSHzYAtfcoiBr5C9DZA
     last_stream_id: ''
     name: 長瀬有花 / YUKA NAGASE
